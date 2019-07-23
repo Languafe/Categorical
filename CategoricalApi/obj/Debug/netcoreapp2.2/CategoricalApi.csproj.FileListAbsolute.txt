@@ -1,0 +1,14 @@
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\bin\Debug\netcoreapp2.2\CategoricalApi.deps.json
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\bin\Debug\netcoreapp2.2\CategoricalApi.runtimeconfig.json
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\bin\Debug\netcoreapp2.2\CategoricalApi.runtimeconfig.dev.json
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\bin\Debug\netcoreapp2.2\CategoricalApi.dll
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\bin\Debug\netcoreapp2.2\CategoricalApi.pdb
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.csprojAssemblyReference.cache
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.csproj.CoreCompileInputs.cache
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.RazorAssemblyInfo.cache
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.RazorAssemblyInfo.cs
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.AssemblyInfoInputs.cache
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.AssemblyInfo.cs
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.RazorTargetAssemblyInfo.cache
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.dll
+C:\Users\erikl\dev\dotnet\Categorical\CategoricalApi\obj\Debug\netcoreapp2.2\CategoricalApi.pdb
