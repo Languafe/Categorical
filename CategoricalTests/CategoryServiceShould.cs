@@ -15,7 +15,8 @@ namespace CategoricalApi.Tests
         {
             string id = Guid.NewGuid().ToString();
             return new DbContextOptionsBuilder<CategoricalContext>()
-                .UseInMemoryDatabase("lol")
+                // .UseInMemoryDatabase("SharedByAllTests!")
+                .UseInMemoryDatabase(id)
                 .Options;
         }
 
